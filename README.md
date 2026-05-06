@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-ana-mesh-khayef/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Ma3ak Ana Mesh Khayef](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
